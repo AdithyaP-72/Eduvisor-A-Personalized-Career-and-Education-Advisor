@@ -4,7 +4,7 @@
 
 The "One-Stop Career & Education Advisor" is a web-based platform designed to address the critical lack of awareness among students and parents regarding the importance of graduation, available career opportunities, and how to choose appropriate subject streams. This platform acts as a personalized career and education advisor, guiding students through key academic and career decisions after completing Class 10 or 12.
 
-It aims to improve enrollment in government degree colleges, reduce dropouts, and empower students with reliable, localized career guidance.
+It aims to improve enrollment in government degree colleges, reduce dropouts, and empower students with reliable, localized career guidance while also reducing the hassle of students and parents at the same time.
 
 ## 🛠️ Features
 
